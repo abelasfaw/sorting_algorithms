@@ -1,7 +1,8 @@
 #ifndef SORT_HEADER
 #define SORT_HEADER
 /**
- * struct listint_ - double linked list node
+ * struct listint_s - double linked list node
+ * @n: integet stored in the node
  * @prev: Pointer to the previous element of the list
  * @next: Pointer to the next element of the list
  */
